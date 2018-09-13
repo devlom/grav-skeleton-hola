@@ -1,0 +1,15 @@
+/data/licenses.yaml
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+security.yaml
+/accounts/*
+!/accounts/.*
+/plugins/*
+!/plugins/.*
+css-compiled
+*.sass-cache
+.DS_Store
+.phpintel/
+security.yaml
+themes/hola
