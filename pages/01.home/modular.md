@@ -8,6 +8,8 @@ content:
         custom:
             - _home
             - _about
+            - _works
+            - _testimonials
 
 menu: Home
 admin:
