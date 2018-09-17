@@ -15,6 +15,6 @@ content:
             - _contact
 admin:
     children_display_order: collection
-onpage_menu: true
+onpage_menu: false
 ---
 

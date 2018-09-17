@@ -14,6 +14,7 @@ content:
             - _cta
             - _contact
 menu: Home
+visible: true
 admin:
     children_display_order: collection
 onpage_menu: true
