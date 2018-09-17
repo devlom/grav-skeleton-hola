@@ -12,10 +12,9 @@ content:
             - _testimonials
             - _blog
             - _cta
-
-menu: Home
-onpage_menu: true
+            - _contact
 admin:
     children_display_order: collection
+onpage_menu: true
 ---
 

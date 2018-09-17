@@ -16,3 +16,26 @@ custom_logo:
     type: image/png
     size: 5238
     path: user/themes/hola/images/logo/logo.png
+footer-text: '© Copyright Hola 2018'
+footer-design: 'Design by <a href="https://www.styleshout.com/">styleshout</a>'
+footer-social:
+  -
+    socialIconClass: 'im im-facebook'
+    socialIconText: Facebook
+    socialIconLink: '#0'
+  -
+    socialIconClass: 'im im-twitter'
+    socialIconText: Twitter
+    socialIconLink: '#0'
+  -
+    socialIconClass: 'im im-instagram'
+    socialIconText: Instagram
+    socialIconLink: '#0'
+  -
+    socialIconClass: 'im im-behance'
+    socialIconText: Behance
+    socialIconLink: '#0'
+  -
+    socialIconClass: 'im im-pinterest'
+    socialIconText: Pinterest
+    socialIconLink: '#0'
