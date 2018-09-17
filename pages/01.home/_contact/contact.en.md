@@ -15,7 +15,7 @@ form:
     fields:
         -
             name: name
-            label: Name
+            label: false
             placeholder: Name
             autofocus: 'off'
             autocomplete: 'on'
@@ -24,21 +24,21 @@ form:
             classes: full-width
         -
             name: email
-            label: Email
+            label: false
             placeholder: 'Email adress'
             type: email
             outerclasses: form-field
             classes: full-width
         -
             name: subject
-            label: Subject
+            label: false
             type: text
             placeholder: Subject
             outerClasses: form-field
             classes: full-width
         -
             name: message
-            label: Message
+            label: false
             placeholder: Message
             type: textarea
             outerclasses: form-field
