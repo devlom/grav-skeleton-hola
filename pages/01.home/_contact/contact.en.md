@@ -22,8 +22,6 @@ form:
             type: text
             outerclasses: form-field
             classes: full-width
-            validate:
-                required: true
         -
             name: email
             label: Email
@@ -31,8 +29,6 @@ form:
             type: email
             outerclasses: form-field
             classes: full-width
-            validate:
-                required: true
         -
             name: subject
             label: Subject
@@ -48,8 +44,6 @@ form:
             outerclasses: form-field
             classes: full-width
             rows: 6
-            validate:
-                required: false
     buttons:
         -
             type: submit

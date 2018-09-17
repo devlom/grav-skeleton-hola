@@ -3,7 +3,7 @@ title: Hola
 content:
     items: '@self.modular'
     order:
-        by: default
+        by: custom
         dir: asc
         custom:
             - _home
@@ -12,6 +12,7 @@ content:
             - _testimonials
             - _blog
             - _cta
+            - _stats
             - _contact
 menu: Home
 visible: true
