@@ -1,5 +1,6 @@
 ---
 title: 'Hello There'
+menu: Home
 button1Text: 'Latest Projects'
 button1Link: '#works'
 button2Text: 'Scroll Down'

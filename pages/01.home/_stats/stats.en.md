@@ -1,5 +1,7 @@
 ---
 title: Statystics
+visible: false
+hidemenu: true
 stats:
     -
         statCount: '128'

@@ -1,6 +1,7 @@
 ---
 title: 'See My Latest Projects.'
 smallTitle: Portfolio
+menu: Works
 portfolio:
     -
         image: g-beetle.jpg

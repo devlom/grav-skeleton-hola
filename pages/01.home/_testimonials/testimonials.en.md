@@ -1,5 +1,6 @@
 ---
 title: 'What People Say.'
+hidemenu: true
 testimonials:
     -
         image: user-01.jpg

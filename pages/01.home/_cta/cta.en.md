@@ -1,5 +1,6 @@
 ---
 title: 'Styleshout Recommends Dreamhost'
+hidemenu: true
 titleLink: 'http://www.dreamhost.com/r.cgi?287326|STYLESHOUT'
 buttonText: 'Sign Up Now'
 buttonLink: 'http://www.dreamhost.com/r.cgi?287326|STYLESHOUT'

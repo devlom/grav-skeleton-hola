@@ -1,6 +1,7 @@
 ---
 title: 'Latest From The Blog.'
 smallTitle: Journal
+menu: Blog
 blog:
     -
         date: 'Sept 16, 2017'

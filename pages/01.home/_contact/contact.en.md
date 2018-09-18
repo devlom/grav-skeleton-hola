@@ -1,6 +1,7 @@
 ---
 title: 'Say Hello.'
 smallTitle: Contact
+menu: Contact
 phoneTitle: Phone
 phonePhone: 'Phone: (+63) 555 1212'
 phoneMobile: 'Mobile: (+63) 555 0100'
@@ -43,7 +44,7 @@ form:
             type: textarea
             outerclasses: form-field
             classes: full-width
-            rows: 6
+            rows: null
     buttons:
         -
             type: submit
