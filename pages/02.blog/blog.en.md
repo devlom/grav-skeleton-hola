@@ -7,7 +7,7 @@ blog_url: blog
 content:
     items:
         - '@self.children'
-    limit: 4
+    limit: 7
     order:
         by: date
         dir: desc
