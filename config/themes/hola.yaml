@@ -56,6 +56,9 @@ theme_menu:
     modular_link: works
     subpage_link: /home
   -
+    item_name: Styles
+    subpage_link: /styles
+  -
     item_name: Blog
     subpage_link: /blog
   -
