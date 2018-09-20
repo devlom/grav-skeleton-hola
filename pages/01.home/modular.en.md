@@ -9,7 +9,9 @@ content:
             - _home
             - _about
             - _works
+            - _services
             - _testimonials
+            - _resume
             - _blog
             - _cta
             - _stats
