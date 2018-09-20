@@ -18,7 +18,7 @@ sitemap:
     priority: 1.03
 feed:
     description: 'Blog news'
-    limit: 10
+    limit: 0
 pagination: true
 ---
 
