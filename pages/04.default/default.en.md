@@ -7,7 +7,7 @@ media_order: devlom-logo.png
 ___
 
 This is default page for the pourpose of welcoming you to the amazing experience of Hola Theme! 
-We hope you'll enjoy every moment of this project! Making you're own amazing website doesnt have to be hard and we hope you can experience that with Hola!
+We hope you'll enjoy every moment of this project! Making you're own amazing website doesn't have to be hard and we hope you can experience that with Hola!
 
 **Every lines of code that you'll find here**
 ```
