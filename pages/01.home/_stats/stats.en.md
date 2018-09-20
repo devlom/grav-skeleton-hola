@@ -1,7 +1,6 @@
 ---
 title: Statystics
 visible: false
-hidemenu: true
 stats:
     -
         statCount: '128'
@@ -14,11 +13,12 @@ stats:
     -
         statCount: '110'
         statDescription: 'Projects Completed'
-        statIconClass: 'im im-arrow-up'
+        statIconClass: im-arrow-up
         statHighlight: '1'
     -
         statCount: '101'
         statDescription: 'Happy Clients'
         statHighlight: '0'
+hidemenu: true
 ---
 
