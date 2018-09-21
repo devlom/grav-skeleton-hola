@@ -7,23 +7,23 @@ button2Text: 'Scroll Down'
 button2Link: '#about'
 social:
     -
-        socialIconClass: 'im im-facebook'
+        socialIconClass: 'fa fa-facebook-square'
         socialIconText: Facebook
         socialIconLink: '#'
     -
-        socialIconClass: 'im im-twitter'
+        socialIconClass: 'fa fa-twitter'
         socialIconText: Twitter
         socialIconLink: '#'
     -
-        socialIconClass: 'im im-instagram'
+        socialIconClass: 'fa fa-instagram'
         socialIconText: Instagram
         socialIconLink: '#'
     -
-        socialIconClass: 'im im-behance'
+        socialIconClass: 'fa fa-behance-square'
         socialIconText: Behance
         socialIconLink: '#'
     -
-        socialIconClass: 'im im-pinterest'
+        socialIconClass: 'fa fa-pinterest'
         socialIconText: Pinterest
         socialIconLink: '#'
 ---

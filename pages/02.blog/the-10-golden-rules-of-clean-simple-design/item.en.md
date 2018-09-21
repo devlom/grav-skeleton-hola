@@ -14,7 +14,6 @@ taxonomy:
         - turpis
     author:
         - 'Soreb Rockie'
-hero_classes: 'page-header page-header--single page-hero'
 hero_image: blog-bg-01.jpg
 continue_link: true
 ---

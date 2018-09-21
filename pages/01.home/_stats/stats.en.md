@@ -13,7 +13,7 @@ stats:
     -
         statCount: '110'
         statDescription: 'Projects Completed'
-        statIconClass: im-arrow-up
+        statIconClass: 'fa fa-long-arrow-up'
         statHighlight: '1'
     -
         statCount: '101'
