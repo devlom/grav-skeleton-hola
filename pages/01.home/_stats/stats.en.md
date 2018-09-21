@@ -14,6 +14,7 @@ stats:
         statCount: '110'
         statDescription: 'Projects Completed'
         statIconClass: 'fa fa-long-arrow-up'
+        statIconLink: '#'
         statHighlight: '1'
     -
         statCount: '101'
