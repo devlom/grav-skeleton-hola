@@ -1,6 +1,5 @@
 enabled: true
 production-mode: true
-grid-size: grid-lg
 header-fixed: true
 header-animated: true
 header-dark: false
@@ -17,7 +16,7 @@ custom_logo:
     size: 5238
     path: user/themes/hola/images/logo/logo.png
 footer-text: '© Copyright Hola 2018'
-footer-design: 'Design by <a href="https://www.styleshout.com/">styleshout</a>'
+footer-design: 'Design by <a href="https://www.styleshout.com/">styleshout</a>, GRAV conversion by <a href="https://devlom.com/">Devlom</a>'
 footer-social:
   -
     socialIconClass: 'fa fa-facebook-square'
