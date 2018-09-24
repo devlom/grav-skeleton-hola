@@ -20,7 +20,7 @@ git:
         path: user/plugins/login
         branch: master
     pagination:
-        url: https://bitbucket.org/rockettheme/grav-plugin-pagination
+        url: https://bitbucket.org/getgrav/grav-plugin-pagination
         path: user/plugins/pagination
         branch: master
     problems:
