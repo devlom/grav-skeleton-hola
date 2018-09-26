@@ -1,7 +1,10 @@
 ---
 title: 'Say Hello.'
+media_order: contact-bg.jpg
 smallTitle: Contact
 menu: Contact
+background: contact-bg.jpg
+opacity: '0.75'
 phoneTitle: Phone
 phonePhone: 'Phone: (+63) 555 1212'
 phoneMobile: 'Mobile: (+63) 555 0100'
