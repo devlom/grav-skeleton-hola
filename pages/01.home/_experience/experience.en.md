@@ -1,5 +1,7 @@
 ---
 title: 'My Work Experience'
+menu: Experience
+visible: true
 experienceTimeline:
     -
         date: 'July 2015 - Present'

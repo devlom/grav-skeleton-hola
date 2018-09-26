@@ -52,6 +52,10 @@ theme_menu:
     modular_link: about
     subpage_link: /home
   -
+    item_name: Experience
+    modular_link: experience
+    subpage_link: /home
+  -
     item_name: Works
     modular_link: works
     subpage_link: /home
