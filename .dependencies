@@ -19,9 +19,9 @@ git:
         url: https://bitbucket.org/rockettheme/grav-plugin-login
         path: user/plugins/login
         branch: master
-    simplesearch:
-        url: https://bitbucket.org/rockettheme/grav-plugin-simplesearch
-        path: user/plugins/simplesearch
+    pagination:
+        url: https://bitbucket.org/getgrav/grav-plugin-pagination
+        path: user/plugins/pagination
         branch: master
     problems:
         url: https://github.com/getgrav/grav-plugin-problems
@@ -48,9 +48,9 @@ links:
         src: grav-plugin-login
         path: user/plugins/login
         scm: github
-    simplesearch:
-        src: grav-plugin-simplesearch
-        path: user/plugins/simplesearch
+    pagination:
+        src: grav-plugin-pagination
+        path: user/plugins/pagination
         scm: github
     problems:
         src: grav-plugin-problems

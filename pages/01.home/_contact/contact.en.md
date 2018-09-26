@@ -11,8 +11,9 @@ emailAddress: 'someone@holawebsite.com,info@holawebsite.com'
 addressTitle: Address
 addressDetails: "1600 Amphitheatre Parkway<br>\r\nMountain View, CA<br>\r\n94043 US"
 form:
-    name: Kontakt
-    action: /kontakt
+    name: kontakt-ajax-form
+    template: form-messages
+    refresh_prevention: true
     fields:
         -
             name: name
@@ -61,15 +62,7 @@ form:
                 subject: '[Message from] {{ form.value.name|e }}'
                 body: '{% include ''forms/data.html.twig'' %}'
         -
-            save:
-                fileprefix: feedback-
-                dateformat: Ymd-His-u
-                extension: txt
-                body: '{% include ''forms/data.txt.twig'' %}'
-        -
             message: 'Thank you for you''re message! We will contact you shortly'
-        -
-            display: thankyou
 ---
 
 Lorem ipsum Dolor adipisicing nostrud et aute Excepteur amet commodo ea dolore irure esse Duis nulla sint fugiat cillum ullamco proident aliquip quis qui voluptate dolore veniam Ut laborum non est in officia.
