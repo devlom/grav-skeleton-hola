@@ -1,6 +1,8 @@
 ---
 title: 'Hello There'
+media_order: hero-bg.jpg
 menu: Home
+background: hero-bg.jpg
 button1Text: 'Latest Projects'
 button1Link: '#works'
 button2Text: 'Scroll Down'

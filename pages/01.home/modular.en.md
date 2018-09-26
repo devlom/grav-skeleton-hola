@@ -8,6 +8,7 @@ content:
         custom:
             - _home
             - _about
+            - _experience
             - _works
             - _services
             - _testimonials
