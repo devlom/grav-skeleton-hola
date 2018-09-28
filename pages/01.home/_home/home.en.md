@@ -6,8 +6,10 @@ background: hero-bg.jpg
 bannerOpacity: '0.5'
 button1Text: 'Latest Projects'
 button1Link: '#works'
-button2Text: 'Scroll Down'
+button2Text: 'More About Me'
 button2Link: '#about'
+button3Text: 'Scroll Down'
+button3Link: '#about'
 social:
     -
         socialIconClass: 'fa fa-facebook-square'
