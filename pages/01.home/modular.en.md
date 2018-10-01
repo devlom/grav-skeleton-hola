@@ -14,6 +14,7 @@ content:
             - _testimonials
             - _resume
             - _blog
+            - _basicText
             - _cta
             - _stats
             - _contact
