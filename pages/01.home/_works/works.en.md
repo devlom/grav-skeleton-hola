@@ -1,8 +1,6 @@
 ---
 title: 'See My Latest Projects.'
 smallTitle: Portfolio
-menu: Works
-visible: true
 portfolio:
     -
         image: g-beetle.jpg

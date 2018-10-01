@@ -1,7 +1,6 @@
 ---
 title: 'What Can I Do For You?'
 smallTitle: Services
-menu: services
 services:
     -
         icon: 'fa fa-globe'

@@ -1,8 +1,6 @@
 ---
 title: 'More of my credentials.'
 smallTitle: Resume
-menu: resume
-visible: true
 timeline:
     -
         resumeTitle: 'Work Experience'

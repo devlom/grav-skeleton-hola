@@ -9,7 +9,6 @@ pwd_regex: '(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}'
 intl_enabled: true
 languages:
   supported:
-    - pl
     - en
   include_default_lang: true
   translations: true
@@ -18,7 +17,6 @@ languages:
   http_accept_language: false
   override_locale: false
 home:
-  alias: /home
   hide_in_urls: false
 pages:
   theme: hola
