@@ -60,6 +60,18 @@ theme_menu:
     modular_link: works
     subpage_link: /home
   -
+    item_name: Services
+    modular_link: services
+    subpage_link: /home
+  -
+    item_name: Testimonials
+    modular_link: testimonials
+    subpage_link: /home
+  -
+    item_name: Resume
+    modular_link: resume
+    subpage_link: /home
+  -
     item_name: Styles
     subpage_link: /styles
   -
