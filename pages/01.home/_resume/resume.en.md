@@ -1,6 +1,9 @@
 ---
 title: 'More of my credentials.'
 smallTitle: Resume
+menu: resume
+visible: true
+sectionBackground: grey-section
 timeline:
     -
         resumeTitle: 'Work Experience'

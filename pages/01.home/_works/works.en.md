@@ -1,6 +1,9 @@
 ---
 title: 'See My Latest Projects.'
 smallTitle: Portfolio
+menu: works
+visible: true
+sectionBackground: gray-section
 portfolio:
     -
         image: g-beetle.jpg
@@ -68,4 +71,4 @@ portfolio:
         imageSize2: shutterbug2x.jpg
 ---
 
-Lorem ipsum Dolor adipisicing nostrud et aute Excepteur amet commodo ea dolore irure esse Duis nulla sint fugiat cillum ullamco proident aliquip quis qui voluptate dolore veniam Ut laborum non est in officia.
+There are much work that I want to share with you. Especially the last designes that I made for my client. Vivamus sagittis lacus vel augue laoreet rutrum faucibus. Etiam habebis sem dicantur magna mollis euismod. Please check them out and enjoy!

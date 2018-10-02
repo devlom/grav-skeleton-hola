@@ -1,5 +1,6 @@
 ---
 title: Statystics
+menu: stats
 visible: false
 stats:
     -

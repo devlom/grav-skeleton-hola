@@ -1,6 +1,9 @@
 ---
 title: 'Hello There'
 media_order: hero-bg.jpg
+menu: home
+redirect: home
+visible: true
 background: hero-bg.jpg
 bannerOpacity: '0.5'
 button1Text: 'Latest Projects'

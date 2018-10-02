@@ -2,6 +2,8 @@
 title: 'Say Hello.'
 media_order: contact-bg.jpg
 smallTitle: Contact
+menu: contact
+visible: true
 background: contact-bg.jpg
 opacity: '0.75'
 phoneTitle: Phone

@@ -1,15 +1,5 @@
 enabled: true
-production-mode: true
-grid-size: grid-lg
-header-fixed: true
-header-animated: true
-header-dark: false
-header-transparent: false
-sticky-footer: true
 blog-page: /blog
-spectre:
-  exp: false
-  icons: false
 custom_logo:
   user/themes/hola/images/logo/logo.png:
     name: logo.png
@@ -42,6 +32,16 @@ footer-social:
 item_name: Contact
 modular_link: '../#contact'
 subpage_link: /home
+production-mode: true
+grid-size: grid-lg
+header-fixed: true
+header-animated: true
+header-dark: false
+header-transparent: false
+sticky-footer: true
+spectre:
+  exp: false
+  icons: false
 theme_menu:
   -
     item_name: Home

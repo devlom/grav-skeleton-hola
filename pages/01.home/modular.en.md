@@ -12,9 +12,9 @@ content:
             - _works
             - _services
             - _testimonials
+            - _basic
             - _resume
             - _blog
-            - _basicText
             - _cta
             - _stats
             - _contact
@@ -22,6 +22,6 @@ menu: Home
 visible: true
 admin:
     children_display_order: collection
-onpage_menu: true
+onpage_menu: false
 ---
 

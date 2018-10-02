@@ -20,5 +20,6 @@ feed:
     description: 'Blog news'
     limit: 0
 pagination: true
+
 ---
 
