@@ -2,7 +2,7 @@
 
 ![](hola.jpg)
 
-The *Hola* skeleton is a [Grav](http://github.com/getgrav/grav) skeleton based on the Hola theme and includes a *user* folder giving an example of a one-page site utilizing [modular pages](http://learn.getgrav.org/content/content-pages) developed using Grav.
+The *Hola* skeleton is a [Grav](http://github.com/getgrav/grav) skeleton based on the [Hola theme](https://github.com/devlom/grav-theme-hola) and includes a *user* folder giving an example of a one-page site utilizing [modular pages](http://learn.getgrav.org/content/content-pages) developed using Grav.
 
 # Installation
 
