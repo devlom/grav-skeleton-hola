@@ -19,7 +19,7 @@ content:
             - _stats
             - _contact
 menu: Home
-visible: true
+visible: false
 admin:
     children_display_order: collection
 onpage_menu: false

@@ -1,6 +1,7 @@
 ---
 title: 'Sample Page'
 media_order: devlom-logo.png
+visible: false
 ---
 
 ###Hello there!

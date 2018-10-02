@@ -2,6 +2,7 @@
 title: Styles
 media_order: sample-image.jpg
 menu: Styles
+visible: false
 button1Text: 'Latest Projects'
 button1Link: '#works'
 button2Text: 'Scroll Down'
