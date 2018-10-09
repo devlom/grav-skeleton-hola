@@ -1,5 +1,4 @@
 enabled: true
-blog-page: /blog
 custom_logo:
   user/themes/hola/images/logo/logo.png:
     name: logo.png
@@ -29,56 +28,3 @@ footer-social:
     socialIconClass: 'fa fa-pinterest'
     socialIconText: Pinterest
     socialIconLink: '#0'
-item_name: Contact
-modular_link: '../#contact'
-subpage_link: /home
-production-mode: true
-grid-size: grid-lg
-header-fixed: true
-header-animated: true
-header-dark: false
-header-transparent: false
-sticky-footer: true
-spectre:
-  exp: false
-  icons: false
-theme_menu:
-  -
-    item_name: Home
-    modular_link: home
-    subpage_link: /home
-  -
-    item_name: About
-    modular_link: about
-    subpage_link: /home
-  -
-    item_name: Experience
-    modular_link: experience
-    subpage_link: /home
-  -
-    item_name: Works
-    modular_link: works
-    subpage_link: /home
-  -
-    item_name: Services
-    modular_link: services
-    subpage_link: /home
-  -
-    item_name: Testimonials
-    modular_link: testimonials
-    subpage_link: /home
-  -
-    item_name: Resume
-    modular_link: resume
-    subpage_link: /home
-  -
-    item_name: Styles
-    subpage_link: /styles
-  -
-    item_name: Blog
-    subpage_link: /blog
-  -
-    item_name: Contact
-    modular_link: contact
-    subpage_link: /home
-footer-additional-text: 'Porting this template to GRAV was made possible with support of <a href="https://davidhagenauer.com/">davidhagenauer.com</a>. Make sure to send cake!'
