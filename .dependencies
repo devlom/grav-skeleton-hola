@@ -16,7 +16,7 @@ git:
         path: user/plugins/form
         branch: master
     login:
-        url: hhttps://github.com/getgrav/grav-plugin-login
+        url: https://github.com/getgrav/grav-plugin-login
         path: user/plugins/login
         branch: master
     pagination:
