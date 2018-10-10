@@ -16,7 +16,7 @@ social:
     -
         socialIconClass: 'fa fa-facebook-square'
         socialIconText: Facebook
-        socialIconLink: 'https://www.facebook.com/devlomthemes'
+        socialIconLink: 'https://www.facebook.com/devlom'
     -
         socialIconClass: 'fa fa-twitter'
         socialIconText: Twitter
