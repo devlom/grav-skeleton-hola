@@ -16,11 +16,11 @@ social:
     -
         socialIconClass: 'fa fa-facebook-square'
         socialIconText: Facebook
-        socialIconLink: '#'
+        socialIconLink: 'https://www.facebook.com/devlomthemes'
     -
         socialIconClass: 'fa fa-twitter'
         socialIconText: Twitter
-        socialIconLink: '#'
+        socialIconLink: 'https://twitter.com/devlomthemes'
     -
         socialIconClass: 'fa fa-instagram'
         socialIconText: Instagram
