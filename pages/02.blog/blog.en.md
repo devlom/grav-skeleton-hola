@@ -1,6 +1,5 @@
 ---
 title: Blog
-body_classes: 'header-image fullwidth'
 admin:
     children_display_order: collection
 blog_url: blog
@@ -20,6 +19,7 @@ feed:
     description: 'Blog news'
     limit: 0
 pagination: true
+visible: false
 
 ---
 

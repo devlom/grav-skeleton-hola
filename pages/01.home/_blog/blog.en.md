@@ -2,7 +2,6 @@
 title: 'Latest From The Blog.'
 smallTitle: Journal
 menu: Blog
-body_classes: 'header-image fullwidth'
 subtitle: ''
 content:
     items:

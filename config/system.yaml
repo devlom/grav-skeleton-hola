@@ -10,7 +10,7 @@ intl_enabled: true
 languages:
   supported:
     - en
-  include_default_lang: true
+  include_default_lang: false
   translations: true
   translations_fallback: true
   session_store_active: false
