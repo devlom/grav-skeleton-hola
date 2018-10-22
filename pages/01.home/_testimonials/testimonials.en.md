@@ -1,10 +1,9 @@
 ---
 title: 'What People Say.'
-media_order: 'user-01.jpg,user-02.jpg,user-03.jpg,user-04.jpg,user-05.jpg,testimonial-bg.jpg'
+media_order: 'user-01.jpg,user-02.jpg,user-03.jpg,user-04.jpg,user-05.jpg,testimonial-bg.jpg,blog-03-bg.jpg'
 menu: testimonials
 visible: true
-section:
-    background: testimonial-bg.jpg
+sectionbackground: testimonial-bg.jpg
 backgroundOverlay: '0.85'
 testimonials:
     -
@@ -22,6 +21,8 @@ testimonials:
         clientName: 'Satya Nadella'
         position: 'CEO, Microsoft'
         description: "Repellat dignissimos libero. Qui sed at corrupti expedita voluptas odit. Nihil ea quia nesciunt. Ducimus aut sed ipsam.  \r\n                    Autem eaque officia cum exercitationem sunt voluptatum accusamus. Quasi voluptas eius distinctio."
+section:
+    background: blog-03-bg.jpg
 hidemenu: true
 ---
 
