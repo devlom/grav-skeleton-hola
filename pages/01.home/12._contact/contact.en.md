@@ -5,6 +5,7 @@ smallTitle: Contact
 menu: contact
 visible: true
 background: contact-bg.jpg
+cache_enable: false
 opacity: '0.75'
 phoneTitle: Phone
 phonePhone: 'Phone: (+63) 555 1212'
@@ -17,6 +18,7 @@ addressDetails: "1600 Amphitheatre Parkway<br>\r\nMountain View, CA<br>\r\n94043
 form:
     name: kontakt-ajax-form
     template: form-messages
+    action: /home
     refresh_prevention: true
     fields:
         -
